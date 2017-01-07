@@ -9,3 +9,5 @@ Use TextBlob spelling correction to iterate over all sentences
 Ex: 
 print(TextBlob('henlo').correct())
 >>>hello
+#idea2:
+Use py-translate to translate from spanish to english
