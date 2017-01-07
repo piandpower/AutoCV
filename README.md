@@ -10,4 +10,4 @@ Ex:
 print(TextBlob('henlo').correct())
 >>>hello
 #idea2:
-Use py-translate to translate from spanish to english
+Use microsoft translation API to translate spanish -> english
